@@ -1,6 +1,3 @@
-word = str(input("kelime girin : "))
+#Explain your work
 
-for i in range(len(word)):
-    temp = str(input("tahmin edilen harf girin : "))
-    if temp in word:
-        print("buldun")
+#Question 4 ; Day 5
