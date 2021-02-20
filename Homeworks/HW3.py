@@ -1,4 +1,4 @@
-#Explain your work
+# asal sayıları fonksiyon ile yazdırma
 
 #Question 3 ; Day 4
 def prime_first(num):
